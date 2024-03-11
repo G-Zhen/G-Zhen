@@ -3,7 +3,8 @@
 # 💫 About Me:
 I'm a Computer Science major at UC Irvine graduating in June 2024. 
 * Initially a Bio Sci major in pre-med, I found my true passion in CS and switched by the end of my 2nd year in college.
-* I'm a huge Star Wars and FF7 fan. I enjoy digital painting and video games.   
+* I'm a huge Star Wars and FF7 fan. I enjoy digital painting and video games.
+* I have a separate Github for my work.   
 
 
 ## 🌐 Socials:
@@ -15,7 +16,7 @@ Check out my professional experience!
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=G-Zhen&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=G-Zhen&theme=radical&hide_border=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=G-Zhen&theme=radical&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Zhen&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
